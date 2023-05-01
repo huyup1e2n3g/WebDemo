@@ -17,3 +17,5 @@ Deploy to Render.com: https://acme-rockets-49w8.onrender.com/
 A TypeScript+Vite project, learned from Dave Gray (https://github.com/gitdagray/typescript-course)
 
 Link: https://huyup1e2n3g.github.io/WebDemo/my-list/
+
+Deploy to Render.com: https://my-list-tk7t.onrender.com/ (Static Site)
